@@ -7,7 +7,7 @@
 
 <div align="center">
     <p> 💻 I’m a **Full Stack Developer**, very interested in IoT and data science projects</p>
-    <p> 📓 Know about my experiences [https://github.com/tarevalosan/upgrade-react-cv] (https://tarevalosan.netlify.app/) </p>
+    <p> 📓 Know about my experiences https://tarevalosan.netlify.app/ </p>
     <p> 📫 How to reach me: tarevalosan@gmail.com </p>
 </div>
 
