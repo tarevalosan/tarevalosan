@@ -1,7 +1,7 @@
 <div align="center"><img width="250px" src="https://i.gifer.com/XN6z.gif" /></div>
 
 <h1 align="center">### Hi 👋 ✨ **My name is Tamara** ✨</h1>
-<h3 align="center">I love echnology, dance flamenco, stroll along the beach and hang out over coffe or beer with family and friends</h3>
+<h3 align="center">I love technology, dance flamenco, stroll along the beach and hang out over coffe or beer with family and friends</h3>
 
 <br />
 
